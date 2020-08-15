@@ -1,0 +1,31 @@
+Coding Challenge
+
+    Please submit the code via Github
+    You can choose whichever technical solution you prefer (any programming language, with/or without a framework - completely up to you)
+    You can use external libraries.
+    Please write a short readme file with basic information about the usage.
+
+Task:
+
+Please implement a service that reads in the provided XML and JSON files** and exposes the information via a RESTful API.
+
+File structure:
+
+    xml contains master data for all products.
+    json contains price information for all products
+
+
+
+The API should be designed in a way, that it allows the following use cases:
+
+    List all products with their master data
+    Show a single product with master data and all available prices
+    Show a single product price for one product and specific unit
+    Optional: provide tests
+
+
+
+Out of scope:
+
+    Persistence of data
+    Authentication/Authorization

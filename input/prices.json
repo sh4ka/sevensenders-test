@@ -1,0 +1,50 @@
+[
+  {
+    "id": "BA-01",
+    "price": {
+      "value": 2.45,
+      "currency": "EUR"
+    },
+    "unit": "piece"
+  },
+  {
+    "id": "BA-01",
+    "price": {
+      "value": 10.99,
+      "currency": "EUR"
+    },
+    "unit": "package"
+  },
+  {
+    "id": "BB-01",
+    "price": {
+      "value": 6.21,
+      "currency": "EUR"
+    },
+    "unit": "piece"
+  },
+  {
+    "id": "BB-01",
+    "price": {
+      "value": 52.18,
+      "currency": "EUR"
+    },
+    "unit": "package"
+  },
+  {
+    "id": "TO-02",
+    "price": {
+      "value": 4.01,
+      "currency": "EUR"
+    },
+    "unit": "piece"
+  },
+  {
+    "id": "TO-02",
+    "price": {
+      "value": 32.18,
+      "currency": "EUR"
+    },
+    "unit": "package"
+  }
+]
